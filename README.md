@@ -12,7 +12,7 @@ I am a Machatronics Engineer from EIA , Artificial Intelligence Student , Full S
 - 🌱 I’m currently learning about API's and data flow for cloud storage such as AWS and DyanamoDB
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I was high performance sportman participating in sports such as swimming , MMA, handball and skating
+- Outside tech, 📖 I was high performance sportman participating in sports such as swimming , MMA, handball and skating.
 - Like 🎵 listen to music, and 🌴 explore nature outdoors.
 
 <h4> Languages </h4>
