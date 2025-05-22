@@ -86,3 +86,7 @@ I am a Machatronics Engineer from EIA , Artificial Intelligence Student , Full S
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a">
 </span>
+
+<p align="center">
+  <a href="https://portfolio-git-main-mauriciop1palma-gmailcoms-projects.vercel.app/">Portfolio</a>
+</p>
