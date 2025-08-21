@@ -7,7 +7,7 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 
-I am a Machatronics Engineer from EIA , Artificial Intelligence Student , Full Stack developer, and Data Scientist. Python is my main language. I love to learn about everything and build new things, I love being productive.
+I am a Machatronics Engineer from EIA , Artificial Intelligence Postgraduate , Full Stack developer, and Data Scientist. Python is my main language. I love to learn about everything and build new things, I love being productive.
 * **I am interested in AI, Machine Learning, and Deep Learning**
 - 🌱 I’m currently learning about API's and data flow for cloud storage such as AWS and DyanamoDB
 - 👯 I’m looking forward to collaborate on open source projects.
